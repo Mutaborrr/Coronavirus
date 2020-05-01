@@ -17,8 +17,7 @@ body {
   padding: 0 16px;
 }
 
-.page-header {
-  text-align: center;    
+.page-header {    
   margin: 0 0 160px;
   padding: 32px 0 32px;
 }
@@ -57,7 +56,6 @@ body {
 }
 
 .heading {
-  text-align: center;
   margin: 0 0 16px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
   font-size: 88px;
